@@ -9,3 +9,4 @@ const f1=()=>{
 const a=()=>{
     alert("a")
 }
+const x=7
